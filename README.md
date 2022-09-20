@@ -4,4 +4,4 @@
 
 # Screenshots
 
-![Alt text](/screenshots/asteroidsMenu.png?raw=true "Main menu")
+![Alt text](/Screenshots/asteroidsMenu.png?raw=true "Main menu")
